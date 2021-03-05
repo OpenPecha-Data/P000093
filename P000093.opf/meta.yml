@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000093
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཆོས་བཤད་གཞན་ཕན་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-11
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-11
 web_metadata:
   title:
     en: The Beneficial Sun:The Public Teaching of Shabkar
